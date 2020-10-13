@@ -1,2 +1,2 @@
-# D-Resnet
-D-Resnet
+# D-ResNet
+D-ResNet
